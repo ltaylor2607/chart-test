@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "jscharting": "^2.9.0-9",
+    "jscharting-vue": "^1.1.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
